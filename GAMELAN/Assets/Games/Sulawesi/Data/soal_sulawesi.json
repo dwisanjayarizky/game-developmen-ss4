@@ -1,0 +1,48 @@
+{
+    "questions": [{
+            "question": "Apakah makna pada Rumah adat Makassar yang bernama Balla?",
+            "options": [
+                "a.\tAlam semesta",
+                "b.\tNegeri dongeng",
+                "c.\tNegeri khayangan"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Apakah nama pakaian adat Makassar?",
+            "options": [
+                "a.\tKebaya",
+                "b.\tTaa",
+                "c.\tBaju Bodo"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Apakah nama tarian adat Makassar?",
+            "options": [
+                "a.\tRemo",
+                "b.\tPakarena",
+                "c.\tDatun julut"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Apakah nama makanan khas Makassar?",
+            "options": [
+                "a.\tSate",
+                "b.\tRendang",
+                "c.\tCoto"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Apakah kepercayaan yang terdapat pada Badik?",
+            "options": [
+                "a.\tDakwah",
+                "b.\tPeperangan",
+                "c.\tKesejahteraan"
+            ],
+            "answer": 2
+        }
+    ]
+}

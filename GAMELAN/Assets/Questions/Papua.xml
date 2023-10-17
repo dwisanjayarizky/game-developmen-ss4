@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<QuestionBank xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <Question Question="Yang tidak termasuk bagian dari rumah masyarakat papua adalah ... ">
+      <answers>
+        <string>a.	Honai</string>
+        <string>b.	Ebei </string>
+        <string>c.	Balla</string>
+      </answers>
+      <answer>2</answer>
+    </Question>
+    <Question Question="Pakaian adat masyarakat papua adalah ... ">
+      <answers>
+        <string>a.	Holim</string>
+        <string>b.	Pegon</string>
+        <string>c.	Pesaan</string>
+      </answers>
+      <answer>0</answer>
+    </Question>
+    <Question Question="Makna dari tari perang bagi masyarakat papua adalah ... ">
+      <answers>
+        <string>a.	Kejujuran dan kebaikan</string>
+        <string>b.	Kedisplinan dan kepatuhan </string>
+        <string>c.	Kepahlawanan dan kegagahan</string>
+      </answers>
+      <answer>2</answer>
+    </Question>
+    <Question Question="Senjata tradisional busur dari papua terbuat dari ...  ">
+      <answers>
+        <string>a.	Bambu </string>
+        <string>b.	Rotan</string>
+        <string>c.	Besi </string>
+      </answers>
+      <answer>1</answer>
+    </Question>
+    <Question Question="Salah satu alat musik tradisional masyarakat papua adalah Pikon yang diambil bahasa baliem Pikonane. Arti dari Pikonane adalah ... ">
+      <answers>
+        <string>a.	Musik Bunyi</string>
+        <string>b.	Musik Tiup</string>
+        <string>c.	Musik petik</string>
+      </answers>
+      <answer>0</answer>
+    </Question>
+  </Questions>
+</QuestionBank>
